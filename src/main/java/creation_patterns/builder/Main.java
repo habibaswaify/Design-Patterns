@@ -27,7 +27,7 @@ public class Main {
         Pizza pep = director.buildPepperoni();         // Build a Pepperoni pizza
         Pizza hawaii = director.buildHawaiian();       // Build a Hawaiian pizza
 
-        // Print the details of each pizza using the toString() method
+        // Print the details of each pizza method
         System.out.println(customPizza.toString());  // Print the custom pizza
         System.out.println(margherita.toString());   // Print the Margherita pizza
         System.out.println(pep.toString());          // Print the Pepperoni pizza
