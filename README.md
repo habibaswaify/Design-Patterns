@@ -75,7 +75,7 @@ types. Each example is based on an AI-generated story problem, followed by my in
 
 - ### **Flyweight:**
     - **Story Problem:** Managing cats in a shelter.
-    - **Explanation:** Reuses existing instances of cats with the same name to save memory.
+    - **Explanation:** Reuses existing instances of cats with the same breed to save memory.
 
 - ### **Facade:**
     - **Story Problem:** Smart home control system.
