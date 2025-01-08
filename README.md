@@ -118,4 +118,3 @@ types. Each example is based on an AI-generated story problem, followed by my in
     - **Explanation:** The Chain of Responsibility pattern allows requests to be passed along a chain of handlers, where
       each handler decides whether to process the request or pass it to the next handler in the chain.
 
----
